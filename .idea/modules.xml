@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Guirdle1.iml" filepath="$PROJECT_DIR$/.idea/Guirdle1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guirdle.iml" filepath="$PROJECT_DIR$/Guirdle.iml" />
     </modules>
   </component>
 </project>
